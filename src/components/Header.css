@@ -1,0 +1,27 @@
+.navbarbg {
+  background-color: #373e98;
+
+  padding: 0px;
+}
+
+.mainCountainer {
+  margin-left: 15px !important;
+}
+
+.containersection {
+  text-decoration: none;
+  margin-left: 15px;
+  color: white;
+  font-size: large;
+  font-weight: 400;
+}
+.logosection {
+  margin-right: 8px;
+  color: #ff1d58;
+  font-weight: bolder;
+}
+.logotext {
+  color: white !important;
+  font-size: large;
+  font-weight: 400;
+}

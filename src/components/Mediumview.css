@@ -1,0 +1,8 @@
+.mediumview_container {
+  height: 90vh;
+  overflow-y: scroll;
+}
+
+.firstcol {
+  margin-left: 25%;
+}
