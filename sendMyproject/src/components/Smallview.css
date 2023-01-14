@@ -1,0 +1,6 @@
+.main_container_smallview{
+  width: auto;
+  height: 95vh;
+  overflow: scroll;
+  margin-left: 17%;
+}

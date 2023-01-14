@@ -1,0 +1,32 @@
+.homepage_main_section {
+  background-color: #ff1d58;
+  height: 100vh;
+  overflow: hidden;
+}
+
+img {
+  border-radius: 15px;
+  box-shadow: 8px 8px 15px rgb(226, 244, 30);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ff1d58;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #373e98;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(255, 255, 0);
+}
